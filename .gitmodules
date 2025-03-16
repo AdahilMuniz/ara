@@ -11,7 +11,7 @@
 	url = https://github.com/verilator/verilator
 [submodule "toolchain/newlib"]
 	path = toolchain/newlib
-	url = https://sourceware.org/git/newlib-cygwin.git
+	url = https://github.com/mirror/newlib-cygwin.git
 	ignore = dirty
 [submodule "toolchain/riscv-llvm"]
 	path = toolchain/riscv-llvm
